@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Loonadministratie.Tests/Loonadministratie.Tests.csproj" />
+  <Project Path="Loonadministratie/Loonadministratie.csproj" />
+</Solution>
